@@ -251,3 +251,65 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1071.398846 seconds.
+  path: Assets/tracked images
+  artifactKey: Guid(7807e41a93230fe44b78187e61c97e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tracked images using Guid(7807e41a93230fe44b78187e61c97e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe761452abfeec63c2e80b8b52053516') in 0.005445 seconds 
+  Import took 0.009973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.660148 seconds.
+  path: Assets/tracked images/ReferenceImageLibrary.asset
+  artifactKey: Guid(7d0488ffb6578134fbf83714f234e09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tracked images/ReferenceImageLibrary.asset using Guid(7d0488ffb6578134fbf83714f234e09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f649304cc84511f0303e8f8411516bd') in 0.016022 seconds 
+  Import took 0.019435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.068376 seconds.
+  path: Assets/tracked images/PATRICK.jpg
+  artifactKey: Guid(0a0835c26b078dd4ebbbf4bce9617a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tracked images/PATRICK.jpg using Guid(0a0835c26b078dd4ebbbf4bce9617a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47e3aab5beb544b48842ce464aacd92') in 0.067181 seconds 
+  Import took 0.071346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/tracked images/WAYNE.jpg
+  artifactKey: Guid(e90bd7012b20531428a76344fe9b7f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tracked images/WAYNE.jpg using Guid(e90bd7012b20531428a76344fe9b7f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5910ba52da313135d9265e05ab36e96d') in 0.013040 seconds 
+  Import took 0.016271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 198.511414 seconds.
+  path: Assets/AR Cube.prefab
+  artifactKey: Guid(69ec50fba28c77d4cb75db0a136f044f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AR Cube.prefab using Guid(69ec50fba28c77d4cb75db0a136f044f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76032c5d0777c8482e54c4cde70075d') in 0.013186 seconds 
+  Import took 0.017799 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 72.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3669.
+Total: 3.604100 ms (FindLiveObjects: 0.213300 ms CreateObjectMapping: 0.091000 ms MarkObjects: 3.279200 ms  DeleteObjects: 0.019700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
