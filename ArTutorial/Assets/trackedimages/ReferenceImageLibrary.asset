@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5166043631394949799
+  m_GuidHigh: 17184289203886111139
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5755904162143658327
+      m_GuidHigh: 15236070300603250363
+    m_SerializedTextureGuid:
+      m_GuidLow: 10404545395340262672
+      m_GuidHigh: 15711481342981735161
+    m_Size: {x: 0.14680135, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: KV1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5352305615233795835
+      m_GuidHigh: 10569261529867218568
+    m_SerializedTextureGuid:
+      m_GuidLow: 7351136333128552864
+      m_GuidHigh: 12624944301963615786
+    m_Size: {x: 0.12201087, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: t34
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5188558324095665946
+      m_GuidHigh: 7333516706125576080
+    m_SerializedTextureGuid:
+      m_GuidLow: 2653922159059828488
+      m_GuidHigh: 15070914000204279976
+    m_Size: {x: 0.1261034, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: sherman
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5688067131720951647
+      m_GuidHigh: 13227543895049678250
+    m_SerializedTextureGuid:
+      m_GuidLow: 2365714494324893804
+      m_GuidHigh: 14903955085550728952
+    m_Size: {x: 0.11070111, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Tiger1
+    m_Texture: {fileID: 0}
