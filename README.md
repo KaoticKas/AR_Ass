@@ -19,3 +19,5 @@ Although the project works well for the functionality provided, There are a few 
 - I would like to add a feature that, instead of having to press a button to start deleting, holding down an object long enough to give a menu of functions that can be executed on that specific object.
 - UI providing more functionality
 - Potential ability to place two tanks against each other??
+
+- ONE OF THE MAIN PRIORITIES IS TO CLEAN UP THE FILES, OMG KACPER WHY DID YOU NOT SORT THE FILES OUT INTO FOLDERS AND MADE SENSIBLE SCENE NAMES AAAAAAAAAAAAAAAAAAAA
